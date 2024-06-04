@@ -1,4 +1,5 @@
-# [DIO](www.dio.me) - Trilha Java Básico
+# DIO - Trilha Java Básico
+www.dio.me
 
 ## POO - Desafio
 
